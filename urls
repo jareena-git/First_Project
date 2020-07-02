@@ -1,0 +1,6 @@
+# http://web.mit.edu/ecprice/python/SQLAlchemy-0.7.8-py2.6-linux-x86_64.egg/sqlalchemy/orm/attributes.py very importent
+# https://docs.sqlalchemy.org/en/13/orm/extensions/declarative/mixins.html
+# https://docs.sqlalchemy.org/en/13/orm/extensions/declarative/mixins.html#mixing-in-relationships
+
+# url='postgresql://postgres:Saleem!123@127.0.0.1:5432/Employees'
+#     # url = 'postgresql://postgres:Saleem!123@127.0.0.1:5432/Employees'
